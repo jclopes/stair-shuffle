@@ -5,6 +5,6 @@ If you play a collectible card game like MTG (magic the gathering), android: net
 
 The technique that I present here produces a better randomization than riffle shuffle and at the same time spares your cards from torture.
 
-Check the video here.
+Check the [video here](https://youtu.be/Jyy94INj4Bs).
 
 You can try out the jupyter notebook and experiment with different shuffle techniques.
